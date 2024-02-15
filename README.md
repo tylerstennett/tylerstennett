@@ -1,8 +1,10 @@
 ### Hey! Welcome to my profile 😅
 
-My name is Tyler Stennett and I'm a computer science student and undergraduate research assistant at the Georgia Institute of Technology.
+My name is **Tyler Stennett** and I'm a second-year computer science student and undergraduate research assistant at the *Georgia Institute of Technology*.
 
-💻 I'm currently working on a research project involving innovative automated REST API testing solutions.
+## Repositories
+
+💻 I'm currently working on a research project involving innovative automated REST API testing solutions for upcoming software engineering conferences.
 
 📓 I've previously worked on research projects like RESTGPT, which was accepted for publication by ICSE NIER 2024. Feel free to read over the associated paper [here](https://arxiv.org/pdf/2312.00894.pdf)!
 
