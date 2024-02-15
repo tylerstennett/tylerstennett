@@ -1,4 +1,4 @@
-### Hey! Welcome to my profile 😅
+### Hey! Welcome to my profile 😄
 
 My name is **Tyler Stennett** and I'm a second-year computer science student and undergraduate research assistant at the *Georgia Institute of Technology*.
 
