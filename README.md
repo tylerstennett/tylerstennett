@@ -8,7 +8,7 @@ My name is **Tyler Stennett** and I'm a second-year computer science student and
 
 📓 I've previously worked on research projects like RESTGPT, which was accepted for publication by ICSE NIER 2024. Feel free to read over the associated paper [here](https://arxiv.org/pdf/2312.00894.pdf)!
 
-I have some repositories on my profile that I've used for learning different areas of software engineering, like a convenient College Scheduler Android application and a fencing forum website.
+I have some repositories on my profile that I've used for learning different areas of software engineering, like a convenient light-weight College Scheduler Android application.
 
 Thanks for reading and feel free to reach out!
 
