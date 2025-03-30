@@ -1,28 +1,11 @@
 ### Hey! Welcome to my profile 😄
 
-My name is **Tyler Stennett** and I'm a third-year computer science student and undergraduate research assistant at the *Georgia Institute of Technology*. Formerly a member of Georgia Tech's Software Engineering (SE) Lab, and currently a member of Georgia Tech's Computational Behavior Analysis (CBA) Lab.
+My name is **Tyler Stennett** and I'm a third-year computer science student and undergraduate research assistant at the *Georgia Institute of Technology*. Formerly a member of Georgia Tech's Software Engineering (SE) Lab, advised by Professor Alessandro Orso, and currently a member of Georgia Tech's [Computational Behavior Analysis (CBA) Lab](https://cba.gatech.edu/), advised by Professor Thomas Plötz.
 
-## Repositories
+# Repositories
 
 💻 I'm currently working on a research project in the field of human activity recognition involving change point detection for smart home sensor data through supervised and unsupervised learning.
 
-📓 I've previously conducted research in automated software testing through machine learning and LLMs. My past projects include [RESTGPT](https://arxiv.org/pdf/2312.00894.pdf), published in ICSE-NIER 2024, and [AutoRestTest](https://arxiv.org/abs/2411.07098), accepted in ICSE 2025.
-
-I have some repositories on my profile that I've used for learning different areas of software engineering, like a convenient light-weight College Scheduler Android application.
+📓 I've previously conducted research in automated software testing through machine learning and LLMs. My past projects include **RESTGPT**, published in [ICSE-NIER 2024](https://arxiv.org/pdf/2312.00894.pdf), and **AutoRestTest**, accepted as a research paper in [ICSE 2025](https://arxiv.org/abs/2411.07098) and as a demonstration paper in [ICSE-Demo 2025](https://arxiv.org/abs/2501.08600).
 
 Thanks for reading and feel free to reach out!
-
-<!--
-**tylerstennett/tylerstennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
