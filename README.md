@@ -1,6 +1,6 @@
 ### Hey! Welcome to my profile 😄
 
-My name is **Tyler Stennett** and I'm a third-year computer science student and undergraduate research assistant at the *Georgia Institute of Technology*. Formerly a member of Georgia Tech's Software Engineering (SE) Lab, advised by Professor Alessandro Orso, and currently a member of Georgia Tech's [Computational Behavior Analysis (CBA) Lab](https://cba.gatech.edu/), advised by Professor Thomas Plötz.
+My name is **Tyler Stennett** and I'm a first-year Master's computer science student and researcher at the *Georgia Institute of Technology*. Formerly a member of Georgia Tech's Software Engineering (SE) Lab, advised by Professor Alessandro Orso, and currently a member of Georgia Tech's [Computational Behavior Analysis (CBA) Lab](https://cba.gatech.edu/), advised by Professor Thomas Plötz.
 
 # Repositories
 
